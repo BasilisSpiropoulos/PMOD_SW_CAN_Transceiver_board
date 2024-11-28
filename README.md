@@ -1,11 +1,11 @@
 # IPC Controller schematics and PCB files  
 
-|   Folder    |                                    Contents                                                  |
-|-------------|----------------------------------------------------------------------------------------------|
-| schematics  | PDF file containing the schematic diagrams of the Instrument Panel Cluster Controller board. |
-| BOM         | PDF file containing the Bill Of Materials for the Instrument Panel Cluster Controller board. |
-| PCB         | PDF files containing PCB layout diagrams of the Instrument Panel Cluster Controller board.   |
-| PCB_3D_view | PDF files showing the 3D view of the PCB for the Instrument Panel Cluster Controller board.  |
+|   Folder    |                                  Contents                                            |
+|-------------|--------------------------------------------------------------------------------------|
+| schematics  | PDF file containing the schematic diagrams of the PMOD SW CAN-Bus Transceiver board. |
+| BOM         | PDF file containing the Bill Of Materials for the PMOD SW CAN-Bus Transceiver board. |
+| PCB         | PDF files containing PCB layout diagrams of the PMOD SW CAN-Bus Transceiver board.   |
+| PCB_3D_view | PDF files showing the 3D view of the PCB for the PMOD SW CAN-Bus Transceiver board.  |
 
 
 
