@@ -1,13 +1,13 @@
 # IPC Controller PCB_3D_view folder  
 
-|                  File                   |                                     Contents                                                        |
-|-----------------------------------------|-----------------------------------------------------------------------------------------------------|
-| IPC_Controller_PCB_3D.pdf               | PDF file containing static 3D views of the Instrument Panel Cluster Controller board.               |
-|                                         |         page 1 : Top view                                                                           |
-|                                         |         page 2 : Bottom view                                                                        |
-|                                         |                                                                                                     |
-| IPC_Controller_PCB_3D_rotate.pdf        | Interactive PDF file containing a dynamic 3D view of the Instrument Panel Cluster Controller board. |
-|                                         |                                                                                                     |
+|                  File                    |                                     Contents                                                |
+|------------------------------------------|---------------------------------------------------------------------------------------------|
+| PMOD_SWCAN_Transceiver_PCB_3D.pdf        | PDF file containing static 3D views of the PMOD SW CAN-Bus Transceiver board.               |
+|                                          |         page 1 : Top view                                                                   |
+|                                          |         page 2 : Bottom view                                                                |
+|                                          |                                                                                             |
+| PMOD_SWCAN_Transceiver_PCB_3D_rotate.pdf | Interactive PDF file containing a dynamic 3D view of the PMOD SW CAN-Bus Transceiver board. |
+|                                          |                                                                                             |
 
 
 
